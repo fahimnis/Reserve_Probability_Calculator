@@ -1,4 +1,4 @@
-# Fractional Flow App
+# Reserve Probability Calculator
 
 **A Jupyter extensions that turns notebooks into web applications.**
 
