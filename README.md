@@ -1,6 +1,6 @@
 # Reserve Probability Calculator
 
-**An interactive web app that returns the P10, P50, and P90 of reserves given a maximum and minimum estimate of the hyperbolic decline curve. It can be used in conjunction with PHDWin to fine tune a decline curve fit to match the P50 case.**
+**An interactive web app that returns the P10, P50, and P90 of reserves given a maximum and minimum estimate of the hyperbolic decline curve. It can be used in conjunction with PHDWin to fine tune a decline curve fit.**
 
 ## Try it live
 
